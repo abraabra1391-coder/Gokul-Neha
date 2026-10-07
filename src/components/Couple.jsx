@@ -20,7 +20,7 @@ export default function Couple() {
                 <img
                   src="/images/groom.png"
                   alt="Gokul"
-                  className="w-full h-full object-cover object-top scale-125 transition-transform duration-700 group-hover:scale-130"
+                  className="w-full h-full object-cover object-top scale-100 transition-transform duration-700 group-hover:scale-105"
                 />
               </div>
             </div>
