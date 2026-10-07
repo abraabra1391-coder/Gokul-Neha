@@ -45,7 +45,7 @@ export default function Couple() {
                 <img
                   src="/images/bride.png"
                   alt="Neha"
-                  className="w-full h-full object-cover object-[center_42%] scale-[2.5] transition-transform duration-700 group-hover:scale-[2.58]"
+                  className="w-full h-full object-cover object-top scale-100 transition-transform duration-700 group-hover:scale-105"
                 />
               </div>
             </div>
