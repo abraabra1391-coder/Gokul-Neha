@@ -32,7 +32,7 @@ export default function Venue() {
             </h3>
 
             <p className="text-sm text-muted-foreground leading-relaxed mb-8 font-sans">
-              Palakkad, Kerala, India
+              Palakkad - Shornur Road, Near Chithrapuri Hotel, Edathara, Parali, Kerala, India
             </p>
 
             <div>
